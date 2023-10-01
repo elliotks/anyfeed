@@ -1,0 +1,15 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title>Wikipedia - Recent changes [en]</title>
+<link rel="alternate" type="text/html" href="http://localhost:1337/test/index-atom.html"/>
+<updated>2023-09-06T16:32:34Z</updated>
+<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+<entry>
+<title>Cheetah - Wikipedia</title>
+<link rel="alternate" type="text/html" href="http://localhost:1337/test/cheetah.html"/>
+<updated>2023-09-06T16:32:33Z</updated>
+<summary type="html">The cheetah (Acinonyx jubatus) is a large cat native to Africa, central Iran and India (reintroduced). It is the fastest land animal, capable of running at 80 to 98 km/h (50 to 61 mph);</summary>
+<author>
+<name>Test</name>
+</author>
+</entry>
+</feed>
